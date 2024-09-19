@@ -190,7 +190,7 @@ body {
   }
   .container > .left {
     width: 100%;
-    border-radius: 0 20px 0 20px;
+    border-radius: 0 0 20px 20px;
   }
   .container > .right {
     width: 100%;
