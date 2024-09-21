@@ -1,11 +1,23 @@
-# Frontend Mentor - Results summary component
+# Mo3bassia - Results summary component
 
-![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
-## Challenge Link
+## Overview
 
-- [Challenge prview link](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+### Screenshot
 
-## Live Demo
+![](./design/desktop-preview.jpg)
 
-- [Live Preview Here](https://results-summary-component-mo3bassias-projects.vercel.app)
+### Links
+
+- Solution URL: [here](https://www.frontendmentor.io/solutions/results-summary-component-fmJy7521JE)
+- Live Site URL: [here](https://results-summary-component-mo3bassias-projects.vercel.app)
+
+## My process 🛠
+
+### Built with
+
+- HTML5
+- Google Fonts
+- CSS
+- Flex Layout
